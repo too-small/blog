@@ -2,7 +2,7 @@
  * @Author: TaiWei
  * @Date: 2022-01-06 09:34:36
  * @LastEditors: TaiWei
- * @LastEditTime: 2022-04-29 14:24:23
+ * @LastEditTime: 2022-06-02 16:43:22
  */
 const themeConfig = require("./config/theme/");
 module.exports = {
@@ -176,5 +176,5 @@ module.exports = {
         ],
         "@vuepress-reco/extract-code",
     ],
-    base: "/",
+    base: "",
 };
