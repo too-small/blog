@@ -16,6 +16,6 @@ git init
 git add -A
 git commit -m 'publish'
 
- git push -f https://github.com/too-small/blog.git master:publish
+ git push -f git@github.com:too-small/blog.git master:publish
 
 # cd -
