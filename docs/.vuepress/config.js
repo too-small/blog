@@ -2,7 +2,7 @@
  * @Author: TaiWei
  * @Date: 2022-01-06 09:34:36
  * @LastEditors: TaiWei
- * @LastEditTime: 2022-07-20 17:19:16
+ * @LastEditTime: 2022-07-20 17:20:09
  */
 const themeConfig = require("./config/theme/");
 module.exports = {
