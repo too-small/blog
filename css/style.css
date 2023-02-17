@@ -1,0 +1,30 @@
+:root {
+  --text-color: #0f1484 !important;
+  /* --background-color: #EAF0FF !important */
+}
+section p {
+  color: #333 !important;
+}
+/* .hero {
+  background-image: none !important;
+} */
+.dark body {
+  --text-color: #fff !important;
+}
+.dark section p {
+  color: #fff !important;
+}
+#box.inputBox span {
+  display: none;
+}
+
+body,
+html {
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+.home-blog .content__default:not(.custom) {
+  max-width: unset;
+  margin: 0 auto;
+  padding: 0;
+}
